@@ -1,0 +1,228 @@
+{
+    "projects": [
+        {
+            "projectKey": "python:archery",
+            "projectName": "python:archery",
+            "branch": "main",
+            "linesOfCode": 59253,
+            "licenseUsagePercentage": 1.185
+        },
+        {
+            "projectKey": "sq_testing:JS_TS_test_with_repo",
+            "projectName": "JS/TS Test repo tesing SUPPORT-39347",
+            "branch": "main",
+            "linesOfCode": 14826,
+            "licenseUsagePercentage": 0.297
+        },
+        {
+            "projectKey": "test_js_test_js_d8b873d1-e7f4-4654-9ff7-3645227e18e0",
+            "projectName": "test_js",
+            "branch": "master",
+            "linesOfCode": 4200,
+            "licenseUsagePercentage": 0.084
+        },
+        {
+            "projectKey": "test_visibility2",
+            "projectName": "Test_arturo_test_user_analysis",
+            "branch": "main",
+            "linesOfCode": 1665,
+            "licenseUsagePercentage": 0.033
+        },
+        {
+            "projectKey": "who_app",
+            "projectName": "WHO_App",
+            "branch": "main",
+            "linesOfCode": 957,
+            "licenseUsagePercentage": 0.019
+        },
+        {
+            "projectKey": "arturo-palau-sonarsource_adagrams-py",
+            "projectName": "arturo-palau-sonarsource_adagrams-py",
+            "branch": "main",
+            "linesOfCode": 380,
+            "licenseUsagePercentage": 0.008
+        },
+        {
+            "projectKey": "org.sonarqube:sonarscanner-maven-aggregate",
+            "projectName": "Example of multi-module Maven project",
+            "branch": "main",
+            "linesOfCode": 172,
+            "licenseUsagePercentage": 0.003
+        },
+        {
+            "projectKey": "sq9_9:maven_multimodule",
+            "projectName": "Maven_Multimodule_SQ9_9",
+            "branch": "main",
+            "linesOfCode": 169,
+            "licenseUsagePercentage": 0.003
+        },
+        {
+            "projectKey": "sq9_9:maven_multimodule_onlym1",
+            "projectName": "Maven_Multimodule_SQ9_9_Only_Module1",
+            "branch": "main",
+            "linesOfCode": 145,
+            "licenseUsagePercentage": 0.003
+        },
+        {
+            "projectKey": "TestOrgSQarturo-palau_test_python_sq_3",
+            "projectName": "test_python_3",
+            "branch": "test_pr_debug",
+            "linesOfCode": 94,
+            "licenseUsagePercentage": 0.002
+        },
+        {
+            "projectKey": "org.sonarqube:sonarscanner-maven-basic",
+            "projectName": "Example of basic Maven project",
+            "branch": "main",
+            "linesOfCode": 87,
+            "licenseUsagePercentage": 0.002
+        },
+        {
+            "projectKey": "test_pr_decoration_github",
+            "projectName": "test_pr_decoration_github",
+            "branch": "main",
+            "linesOfCode": 82,
+            "licenseUsagePercentage": 0.002
+        },
+        {
+            "projectKey": "test_notifications",
+            "projectName": "test_notifications",
+            "branch": "main",
+            "linesOfCode": 73,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "arturo-palau-sonarsource_test_python_sq_AYlHt7MviCvfgojJ5Epg",
+            "projectName": "test_python_sq",
+            "branch": "new_bug",
+            "linesOfCode": 61,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "test_python_3",
+            "projectName": "test_python_sq_3",
+            "branch": "tb_sq_3",
+            "linesOfCode": 59,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "TestOrgSQarturo-palau_test_python_sq2_AYvPjCalZeK8yKIf8E6O",
+            "projectName": "TestOrgSQarturo-palau_test_python_sq2_AYvPjCalZeK8yKIf8E6O",
+            "branch": "main",
+            "linesOfCode": 58,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "org.sonarqube:sonarscanner-maven-basic-no-coverage",
+            "projectName": "Example of basic Maven project No Coverage",
+            "branch": "main",
+            "linesOfCode": 57,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "azure-test-prdecor-python",
+            "projectName": "test_azure_python-prdecor",
+            "branch": "main",
+            "linesOfCode": 46,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "Test_arturo_test_user_analysis",
+            "projectName": "Test_arturo_test_user_analysis",
+            "branch": "main",
+            "linesOfCode": 40,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "Test_arturo_test_user_analysis3",
+            "projectName": "Test_arturo_test_user_analysis3",
+            "branch": "main",
+            "linesOfCode": 40,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "Test_user_analysis4",
+            "projectName": "Test_user_analysis4",
+            "branch": "main",
+            "linesOfCode": 40,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "TestProjectVisablity_Private",
+            "projectName": "TestProjectVisablity_Private",
+            "branch": "main",
+            "linesOfCode": 40,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "scanner_branch",
+            "projectName": "TestScannerBranchNoChange",
+            "branch": "main",
+            "linesOfCode": 40,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "sonarsource-cfamily-examples_...",
+            "projectName": "sonarsource-cfamily-examples_...",
+            "branch": "main",
+            "linesOfCode": 38,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "dotnet_test_exclude",
+            "projectName": "dotnet_test_exclude",
+            "branch": "main",
+            "linesOfCode": 31,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "test_sq_cpp_csharp",
+            "projectName": "test_sq_cpp_csharp",
+            "branch": "main",
+            "linesOfCode": 31,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "test_windows_dotnet",
+            "projectName": "test_windows_dotnet",
+            "branch": "main",
+            "linesOfCode": 31,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "test_project_privacy_pipeline",
+            "projectName": "TestProjectVisablity_Private_pipeline",
+            "branch": "main",
+            "linesOfCode": 29,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "cfamliy_ghactions",
+            "projectName": "cfamliy_ghactions",
+            "branch": "main",
+            "linesOfCode": 29,
+            "licenseUsagePercentage": 0.001
+        },
+        {
+            "projectKey": "sonarsource-cfamily-examples_macos-cmake-azure-sq_AYAYt3nkMi_-8diYBjJ9",
+            "projectName": "sonarsource-cfamily-examples_macos-cmake-azure-sq_AYAYt3nkMi_-8diYBjJ9",
+            "branch": "main",
+            "linesOfCode": 21,
+            "licenseUsagePercentage": 0.0
+        },
+        {
+            "projectKey": "cfamily_ghactions_wrapper",
+            "projectName": "cfamily_ghactions_wrapper",
+            "branch": "main",
+            "linesOfCode": 21,
+            "licenseUsagePercentage": 0.0
+        },
+        {
+            "projectKey": "test_sonar_test_sonar_AYi7MO7iLY87K2n82TnE",
+            "projectName": "test_sonar",
+            "branch": "geoffray/coverage_conf_after_config",
+            "linesOfCode": 21,
+            "licenseUsagePercentage": 0.0
+        }
+    ]
+}
