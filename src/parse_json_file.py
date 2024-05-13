@@ -1,16 +1,7 @@
 import json
 import os
 
-# def parse_json_file(file_path, parameters):
-#     with open(file_path) as file:
-#         data = json.load(file)
-        
-#     for param in parameters:
-#         if param in data:
-#             print(f"{param}: {data[param]}")
-#         else:
-#             print(f"{param} not found in the JSON file.")
-            
+# Function to parse a json file and extract the values of the parameters            
 def parse_json_file(file_path, parameters):
     with open(file_path, 'r') as json_file:
         data = json.load(json_file)
@@ -38,7 +29,7 @@ def get_json_files_in_directory():
     return json_files
 
 
-# Example usage
+# Get the list of json files in the current directory
 json_files = get_json_files_in_directory()
 print(json_files)
 
@@ -46,16 +37,18 @@ print(json_files)
 for file in json_files:
     if file.startswith("sonarqube-support-info"):
         file_path = file
-        parameters = ["System.Server ID", "Database"]
+        parameters = ["System.Server ID", 
+                      "System.Version",
+                      "License.type",
+                      "ALMs",
+                      "Server Push Connections.SonarLint Connected Clients",
+                      "statistics.userCount",
+                      "statistics.projectCount",
+                      "statistics.nclocByLanguage",
+                      "Database"]
         result = parse_json_file(file_path, parameters)
         print(result)
         
 
 
-
-
-# Example usage
-#file_path = "sonarqube-support-info-ECD0049A-AYhPyNdv7bFxHMR4ULGW-2024-5-10-15-53.json"
-#parameters = ["System", "Database"]
-#parse_json_file(file_path, parameters)
 
