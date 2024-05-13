@@ -2,7 +2,7 @@
     "paging": {
         "pageIndex": 1,
         "pageSize": 100,
-        "total": 41
+        "total": 44
     },
     "components": [
         {
@@ -225,6 +225,15 @@
             "visibility": "public"
         },
         {
+            "key": "TestOrgSQarturo-palau_get_info_sq_ca009817-656b-420f-abba-72708e3f9f9e",
+            "name": "get_info_sq",
+            "qualifier": "TRK",
+            "isFavorite": false,
+            "analysisDate": "2024-05-08T18:19:17+0000",
+            "tags": [],
+            "visibility": "public"
+        },
+        {
             "key": "TestOrgSQarturo-palau_macos-cmake-compdb-gh-actions-sq_AY2jQG3P03LT8eLYYfzT",
             "name": "macos-cmake-compdb-gh-actions-sq",
             "qualifier": "TRK",
@@ -275,6 +284,22 @@
         {
             "key": "arturo-palau-sonarsource_test_csharp_AY0dYetHnecfvBlbSajc",
             "name": "test_csharp",
+            "qualifier": "TRK",
+            "isFavorite": false,
+            "tags": [],
+            "visibility": "public"
+        },
+        {
+            "key": "project-creation-branchname",
+            "name": "project-creation-branchname",
+            "qualifier": "TRK",
+            "isFavorite": false,
+            "tags": [],
+            "visibility": "public"
+        },
+        {
+            "key": "test_azure_python-prdecor_test_azure_python-prdecor_bbea03f6-ab8f-4348-a204-2686442a4bb8",
+            "name": "test_azure_python-prdecor",
             "qualifier": "TRK",
             "isFavorite": false,
             "tags": [],

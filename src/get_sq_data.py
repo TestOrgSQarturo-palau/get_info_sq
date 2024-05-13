@@ -25,7 +25,9 @@ api_calls = {
     "license_usage": "/api/projects/license_usage",
     "quality_gates": "/api/qualitygates/list",
     "projects_latest_analysis": "/api/components/search_projects?f=analysisDate&s=analysisDate&asc=false",
-    "projects_oldest_analysis": "/api/components/search_projects?f=analysisDate&s=analysisDate&asc=true"
+    "projects_oldest_analysis": "/api/components/search_projects?f=analysisDate&s=analysisDate&asc=true",
+    "permission_templates": "/api/permissions/search_templates",
+    "quality_profiles": "/api/qualityprofiles/search"
 }
 
 # Use the argument in your code

@@ -2,9 +2,18 @@
     "paging": {
         "pageIndex": 1,
         "pageSize": 100,
-        "total": 41
+        "total": 44
     },
     "components": [
+        {
+            "key": "TestOrgSQarturo-palau_get_info_sq_ca009817-656b-420f-abba-72708e3f9f9e",
+            "name": "get_info_sq",
+            "qualifier": "TRK",
+            "isFavorite": false,
+            "analysisDate": "2024-05-08T18:19:17+0000",
+            "tags": [],
+            "visibility": "public"
+        },
         {
             "key": "test_python_3",
             "name": "test_python_3",
@@ -275,6 +284,22 @@
         {
             "key": "arturo-palau-sonarsource_test_csharp_AY0dYetHnecfvBlbSajc",
             "name": "test_csharp",
+            "qualifier": "TRK",
+            "isFavorite": false,
+            "tags": [],
+            "visibility": "public"
+        },
+        {
+            "key": "project-creation-branchname",
+            "name": "project-creation-branchname",
+            "qualifier": "TRK",
+            "isFavorite": false,
+            "tags": [],
+            "visibility": "public"
+        },
+        {
+            "key": "test_azure_python-prdecor_test_azure_python-prdecor_bbea03f6-ab8f-4348-a204-2686442a4bb8",
+            "name": "test_azure_python-prdecor",
             "qualifier": "TRK",
             "isFavorite": false,
             "tags": [],
